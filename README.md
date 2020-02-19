@@ -1,6 +1,6 @@
 # Principles-of-Data-Science
 
-Feature importance and explainability in finance
+Loan Default Prediction using XGBoost with explainability
 
 Author: Tareq Galala
 
