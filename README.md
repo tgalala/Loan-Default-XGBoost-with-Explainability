@@ -8,10 +8,10 @@ Feature importance, feature selection and explainability in loan defaults.
 
 <br><br>
 
-![](images/shap.jpg)
+![](images/xg.png) 
 
 
 
 <br><Br>
 
-![](images/xg.png)
+![](images/shap.jpg)
