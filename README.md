@@ -6,6 +6,8 @@ Feature importance, feature selection and explainability in loan defaults.
 
 
 
+Dataset: Give Me Some Credit from Kaggle’s 2012 competition
+
 <br><br>
 
 ![](images/xg.png) 
